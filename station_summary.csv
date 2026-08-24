@@ -1,0 +1,13 @@
+station_id,location,charger_type,sessions,energy_kwh,revenue,avg_utilization,revenue_per_session,demand_score,priority
+EV002,Airport Corridor,Fast,174471,4534427.35,68008438.6,75.89061694290977,389.8,86.74,Capacity Priority
+EV005,Shopping Mall,Fast,160139,4183691.21,62697195.7,72.33228130755064,391.52,81.23,Capacity Priority
+EV001,Central Business District,Fast,148854,3877105.34,58051658.5,69.30687384898711,389.99,76.57,Capacity Priority
+EV011,Industrial Area,Standard,86373,2250433.95,33634404.35,63.154525782688765,389.41,57.05,Growth Opportunity
+EV007,Highway Exit,Fast,103432,2683035.65,40190694.05,52.4673664825046,388.57,55.5,Growth Opportunity
+EV012,Hospital District,Standard,72837,1893183.53,28365555.84,55.06062615101289,389.44,49.07,Growth Opportunity
+EV003,Tech Park,Fast,89425,2320828.6,34747981.36,45.708047882136285,388.57,48.18,Growth Opportunity
+EV009,Suburban Hub,Standard,70214,1826461.68,27303062.01,53.406243093922654,388.85,47.49,Growth Opportunity
+EV008,IT Corridor,Fast,80622,2087675.0,31249539.72,41.235831031307555,387.61,43.42,Growth Opportunity
+EV006,University Area,Standard,59610,1554128.27,23278721.94,45.69368093922652,390.52,40.54,Growth Opportunity
+EV004,Residential Zone,Standard,55144,1435445.28,21513775.57,42.30436464088398,390.14,37.51,Growth Opportunity
+EV010,Metro Station,Fast,67397,1746235.71,26131104.83,34.47750920810313,387.72,36.31,Growth Opportunity

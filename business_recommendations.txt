@@ -1,0 +1,23 @@
+EV CHARGING BUSINESS RECOMMENDATIONS
+
+1. Capacity Planning
+   3 station(s) fall into the Capacity Priority group.
+   Review these locations for additional chargers, queue monitoring,
+   or charger-capacity upgrades.
+
+2. Peak Demand
+   Charging demand peaks around 21:00.
+   Staffing, maintenance and dynamic pricing can be evaluated around
+   high-demand periods.
+
+3. Under-utilization
+   Low-utilization stations should be reviewed for location fit,
+   visibility, pricing, partnerships and customer acquisition.
+
+4. Revenue Growth
+   Prioritize high-utilization stations for cross-selling,
+   membership programs and premium fast-charging options.
+
+5. Expansion Strategy
+   Expansion should combine utilization, energy delivered,
+   revenue and local demand—not revenue alone.
